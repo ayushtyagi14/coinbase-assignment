@@ -1,3 +1,9 @@
+## Application Screenshots
+![IMG-20240419-WA0007](https://github.com/ayushtyagi14/coinbase-assignment/assets/89740972/658cc34f-de18-4144-9885-0fcd15aea4b7)
+![IMG-20240419-WA0008](https://github.com/ayushtyagi14/coinbase-assignment/assets/89740972/17b86a19-caa3-4f2c-9d65-6c4ec5040767)
+![IMG-20240419-WA0010](https://github.com/ayushtyagi14/coinbase-assignment/assets/89740972/7c216144-fb1d-40ff-9f19-1fdab817db9a)
+![IMG-20240419-WA0009](https://github.com/ayushtyagi14/coinbase-assignment/assets/89740972/b009e83b-eb00-43ad-8e27-b03e79c5a7a0)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
